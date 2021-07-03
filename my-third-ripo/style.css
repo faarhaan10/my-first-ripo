@@ -8,5 +8,12 @@ h1{
 }
 .container{
     text-align: center;
-    
+
+}
+.container img{
+    width: 80%;
+    height: auto;
+    border-radius: 40px;
+    shape-image-threshold: inherit;
+    box-shadow: inherit;
 }
